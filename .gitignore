@@ -1,0 +1,19 @@
+node_modules
+.grunt
+.env
+.env.*
+.sass-cache
+.build
+tmp
+CMD.bat
+
+# images
+images/*
+web_files/images
+favicon.ico
+
+#fonts
+fonts/*
+web_files/fonts
+
+# javascript
